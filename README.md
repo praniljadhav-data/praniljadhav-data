@@ -24,15 +24,18 @@ I have experience understanding stakeholder requirements, developing automated d
 
 ### 🛠️ Technical Skills
 
-- **Advanced Excel**
-- **SQL Server**
-- **Python**
-- **Pandas**
-- **Power BI**
-- **Data Cleaning & Transformation**
-- **Data Analysis**
-- **Dashboard Development & Automation**
-- **Business Intelligence**
+<p align="left">
+  <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+- Data Cleaning & Transformation
+- Data Analysis
+- Dashboard Development & Automation
+- Business Intelligence
 
 ---
 
